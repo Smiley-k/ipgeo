@@ -3,7 +3,7 @@
 
 Плагин для MeshCentral: показывает **локальный флаг страны** рядом с публичным IP устройства, а **провайдера, страну, ASN и IP** — в мгновенной подсказке при наведении.
 
-<img width="372" height="736" alt="image" src="https://github.com/user-attachments/assets/6ec31d31-3617-4e30-9866-523193749f45" />
+<img width="240" alt="image" src="https://github.com/user-attachments/assets/6ec31d31-3617-4e30-9866-523193749f45" />
 
 
 ## Возможности
