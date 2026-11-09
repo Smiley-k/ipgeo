@@ -94,6 +94,4 @@ IP: 203.0.113.45
 
 ## Лицензия
 
-Код плагина: MIT. См. [LICENSE](LICENSE).
-
 Флаги: [flag-icons](https://github.com/lipis/flag-icons), MIT. См. <code>flags/LICENSE</code>.
