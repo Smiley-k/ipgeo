@@ -3,7 +3,7 @@
 
 A MeshCentral plugin that shows a **local country flag** next to public device IP addresses and reveals the **ISP/provider, country, ASN and IP** in an instant tooltip.
 
-<img width="372" height="736" alt="image" src="https://github.com/user-attachments/assets/a6ab415d-4516-492f-9095-7b5d0a004f43" />
+<img width="240" alt="image" src="https://github.com/user-attachments/assets/a6ab415d-4516-492f-9095-7b5d0a004f43" />
 
 
 ## Features
