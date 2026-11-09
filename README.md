@@ -1,3 +1,4 @@
+**English** | [Русский](README.ru.md)
 # MeshCentral IP Geo
 
 A MeshCentral plugin that shows a **local country flag** next to public device IP addresses and reveals the **ISP/provider, country, ASN and IP** in an instant tooltip.
