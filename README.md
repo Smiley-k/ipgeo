@@ -121,6 +121,4 @@ node -e "const p=require('./ipgeo.js').ipgeo({}); p.lookupBatch(['8.8.8.8','1.1.
 
 ## License
 
-Plugin code: MIT. See [LICENSE](LICENSE).
-
 Country flags: [flag-icons](https://github.com/lipis/flag-icons), MIT. See <code>flags/LICENSE</code>.
