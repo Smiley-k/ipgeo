@@ -1,0 +1,11 @@
+{
+  "provider": "auto",
+  "cacheHours": 168,
+  "requestTimeoutMs": 5000,
+  "minIntervalMs": 1400,
+  "batchIntervalMs": 4200,
+  "batchSize": 100,
+  "batchMax": 200,
+  "batchTimeoutMs": 15000,
+  "debug": false
+}
